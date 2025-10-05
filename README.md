@@ -1,2 +1,2 @@
 # Hangman
-PROG7314 Hangman
+PROG7314 ICE TASK 5 - Hangman
